@@ -1,7 +1,8 @@
 ## Big Data Applications and Analytics Course, Fall 2017
 #### INFO-I 523  BIG DATA APPLS & ANALYTICS (3 CR)
-#### Instructor: Gregor Von Laszewski  
+### Instructor: Gregor Von Laszewski  
 #### Indiana University Bloomington, SOIC
+
 
 ### 2.2.1. Notebook
 * Students are required to maintain a class notebook in github in which they summarize their weekly activities for this course. This includes a self maintained list of which lecture material they viewed.
