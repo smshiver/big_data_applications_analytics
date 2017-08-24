@@ -34,6 +34,7 @@ Oct 30 Paper 2 due (Graded)
 Oct 30 General programming assignments due (Graded) * results 30pts * code quality 30pts * documentation 40pts
 
 Nov 19 - Nov 26, Thanksgiving lecture free time
+
 This is a good time to work ahead or catch up with things We strongly advise to use this time wisely. Projects and paper are due Dec 1. We will deduct 10% of the grade if not completed by Dec 1.
 * Dec 1. Project and Paper due
 * Dec 1. If not doing a project Extended paper due
