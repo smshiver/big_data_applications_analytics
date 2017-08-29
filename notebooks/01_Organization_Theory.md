@@ -17,16 +17,15 @@
 * Piazza folders: https://cloudmesh.github.io/classes/lesson/communication/piazza.html#piazza-curration-for-i523 
 * Getting started with i523-piazza: https://youtu.be/9hnW-327CMQ 
 *	Course i523-organization: https://youtu.be/yC3PNkb_9mI  
+* Complete Doodle suvery about weekly meeting times
 
 ### 3. Theory Track: Introduction 
-3.1.1 Course Motivation 
-* Video Lectures and Lessons by Geoffrey Fox:
-  * (1) Emerging Technologies
-  * (2) Data Deluge
-  * (3) Jobs
-  * (4)(A-C) Industrial Trends
-  * (5) Digital Disruption
-
+3.1.1 Course Motivation: Video Lectures and Lessons by Geoffrey Fox:
+ 1. Emerging Technologies
+ 2. Data Deluge
+ 3. Jobs
+ 4. (A-C) Industrial Trends
+ 5. Digital Disruption
 
 
 
