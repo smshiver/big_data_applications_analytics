@@ -11,7 +11,8 @@
 * Create Future Systems account: https://portal.futuresystems.org/projects/all
 * Create Chameleon Cloud account: https://www.chameleoncloud.org/docs/getting-started/
 
-### WEEK 2: Aug. 28-Sept. 1, Organization, Introduction, Course Motivation
+### WEEK 2: Aug. 28-Sept.1 
+### Course Organization, Introduction, Motivation
 ### 1. Course Organization Videos
 * Piazza folders: https://cloudmesh.github.io/classes/lesson/communication/piazza.html#piazza-curration-for-i523 
 * Getting started with i523-piazza: https://youtu.be/9hnW-327CMQ 
