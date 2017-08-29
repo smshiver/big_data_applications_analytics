@@ -6,17 +6,19 @@
   * Be present in class Piazza
 
 ### Setup communication pathways for the class (no extensions)
-*  Create github account for the course
+*  Create github account for the course: https://github.com/smshiver
   * Create gitlab repository in class repository 
-* Create Future Systems account
-* Create Chameleon Cloud account
+* Create Future Systems account: https://portal.futuresystems.org/projects/all
+* Create Chameleon Cloud account: https://www.chameleoncloud.org/docs/getting-started/
 
-### WEEK 3: Aug. 28-Sept. 1, Organization, Introduction, Course Motivation
-### Course Organization
+### WEEK 2: Aug. 28-Sept. 1, Organization, Introduction, Course Motivation
+### 1. Course Organization
+* Learn about Piazza folders: https://cloudmesh.github.io/classes/lesson/communication/piazza.html#piazza-curration-for-i523 
 * Getting started with i523-piazza: https://youtu.be/9hnW-327CMQ 
 *	Course i523-organization: https://youtu.be/yC3PNkb_9mI  
 
-### Theory Track: Introduction, Video Lectures and Lessons
+### 3. Theory Track 
+### 3.1 Introduction, Video Lectures and Lessons
 * View Course Videos by Geoffrey Fox:
 * 3.1.1 Course Motivation
   * (1) Emerging Technologies
