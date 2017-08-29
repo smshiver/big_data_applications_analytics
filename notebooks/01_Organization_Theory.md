@@ -17,8 +17,9 @@
 *	Course i523-organization: https://youtu.be/yC3PNkb_9mI  
 * Complete Doodle suvery about weekly meeting times
 
-#### 3. Theory Track: Introduction 
-3.1.1 Course Motivation: Video Lectures and Lessons by Geoffrey Fox:
+#### 3. Watch Video Lectures and Lessons by Geoffrey Fox:
+3.1 [Theory Track] Introduction 
+3.1.1 Course Motivation:
  1. Emerging Technologies
  2. Data Deluge
  3. Jobs
