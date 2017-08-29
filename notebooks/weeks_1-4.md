@@ -7,3 +7,6 @@ https://cloudmesh.github.io/classes/i523/2017/fall2017.html#notebook
 * Create gitlab repository in our class repository. (Graded homework, no extensions)
 * Be present in class Piazza (Graded homework, no extensions).
 * Why no extensions: if we can not communicate with you we can not conduct the class. Everyone must be in piazza and gitlab timely. Instead of giving points we will deduct points from everyone that has not done it in time. Those that registered late have one week from the time they registered to complete this task.
+
+### Aug. 28, Mon, Organization, Introduction, Course Motivation
+3.1.1. Course Motivation
