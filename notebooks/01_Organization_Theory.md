@@ -6,9 +6,10 @@
 
 #### Setup communication pathways for the class (no extensions)
 *  Create github account for the course: https://github.com/smshiver
-  * Create gitlab repository in class repository 
+   (Create gitlab repository in class repository) 
 * Create Future Systems account: https://portal.futuresystems.org/projects/all
 * Create Chameleon Cloud account: https://www.chameleoncloud.org/docs/getting-started/
+* Complete the Entry Survey after completing these accounts
 
 ### WEEK 2 (Aug.28-Sept.1): Course Organization, Introduction, Motivation
 #### 1. Course Organization Videos
