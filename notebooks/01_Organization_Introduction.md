@@ -1,4 +1,4 @@
-### WEEK 1 (Aug 21-25): Class Orientation
+### WEEK 01 (Aug 21-25): Class Orientation
 * Course website: https://cloudmesh.github.io/classes/i523/2017/index.html 
 * Piazza course site: https://piazza.com/iu/fall2017/i523/home 
   * Post biography on Piazza
@@ -11,7 +11,7 @@
 * Create Chameleon Cloud account: https://www.chameleoncloud.org/docs/getting-started/
 * Complete the Entry Survey after completing these accounts
 
-### WEEK 2 (Aug.28-Sept.1): Course Organization, Introduction, Motivation
+### WEEK 02 (Aug.28-Sept.1): Course Organization, Introduction, Motivation
 #### 1. Course Organization Videos
 * Piazza folders: https://cloudmesh.github.io/classes/lesson/communication/piazza.html#piazza-curration-for-i523 
 * Getting started with i523-piazza: https://youtu.be/9hnW-327CMQ 
