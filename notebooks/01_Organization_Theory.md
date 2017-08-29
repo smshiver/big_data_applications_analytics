@@ -12,15 +12,14 @@
 * Create Chameleon Cloud account: https://www.chameleoncloud.org/docs/getting-started/
 
 ### WEEK 2: Aug. 28-Sept. 1, Organization, Introduction, Course Motivation
-### 1. Course Organization
-* Learn about Piazza folders: https://cloudmesh.github.io/classes/lesson/communication/piazza.html#piazza-curration-for-i523 
+### 1. Course Organization Videos
+* Piazza folders: https://cloudmesh.github.io/classes/lesson/communication/piazza.html#piazza-curration-for-i523 
 * Getting started with i523-piazza: https://youtu.be/9hnW-327CMQ 
 *	Course i523-organization: https://youtu.be/yC3PNkb_9mI  
 
-### 3. Theory Track 
-### 3.1 Introduction, Video Lectures and Lessons
-* View Course Videos by Geoffrey Fox:
-* 3.1.1 Course Motivation
+### 3. Theory Track: Introduction 
+3.1.1 Course Motivation 
+* Video Lectures and Lessons by Geoffrey Fox:
   * (1) Emerging Technologies
   * (2) Data Deluge
   * (3) Jobs
