@@ -24,5 +24,8 @@ Piazza course site: https://piazza.com/iu/fall2017/i523/home
  4. (A-C) Industrial Trends
  5. Digital Disruption
 
-
+#### EContrib.1:
+* Identify spelling error on course web page. Fork the Web page, fix the error and create a pull request.
+* Pull request submitted: i525_Fall2017.rst_minor_typo_corrections_ #579
+* In file fall2017.rst, line 263, change "studnets" to "students", and line 285, "can not" to "cannot".
 
